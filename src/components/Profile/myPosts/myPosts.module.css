@@ -1,0 +1,13 @@
+.containerPosts {
+  padding: 10px;
+}
+.inputPost {
+  display: flex;
+  flex-direction: column;
+}
+.inputPost button {
+  margin-top: 10px;
+}
+.posts {
+  margin-top: 10px;
+}
